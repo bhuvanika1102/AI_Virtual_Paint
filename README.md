@@ -40,6 +40,14 @@ This project is an AI-based virtual paint application that leverages the power o
 ```bash
 python paint.py
 ```
+## Sample Output
+![output-1](AIVirtualPainter/pictures/2024825235422.jpeg)
+
+
+![output-2](images/op2.png)
+## Contact
+
+For any questions or feedback, please reach out to me via [bhuvani1102@gmail.com](mailto:bhuvani1102@gmail.com).
 
 
 
