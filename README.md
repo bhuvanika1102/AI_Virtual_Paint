@@ -44,7 +44,7 @@ python paint.py
 ![output-1](AIVirtualPainter/pictures/2024825235422.jpeg)
 
 
-![output-2](hAIVirtualPainter/pictures/202482518211.jpeg)
+![output-2](AIVirtualPainter/pictures/2024825161211.jpeg)
 ## Contact
 
 For any questions or feedback, please reach out to me via [bhuvani1102@gmail.com](mailto:bhuvani1102@gmail.com).
