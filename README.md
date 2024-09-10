@@ -41,7 +41,7 @@ This project is an AI-based virtual paint application that leverages the power o
 python paint.py
 ```
 ## Sample Output
-![output-1](AIVirtualPainteroutput1.jpeg)
+![output-1](AIVirtualPainter/output1.jpeg)
 
 
 ![output-2](AIVirtualPainter/output2.jpeg)
